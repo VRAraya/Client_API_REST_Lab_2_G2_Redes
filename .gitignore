@@ -284,3 +284,4 @@ modules.xml
 /Application/Common/Conf/config.php
 
 # End of https://www.gitignore.io/api/cakephp,phpunit,fuelphp,cakephp2,cakephp3,thinkphp,phpstorm,phpstorm+iml,phpstorm+all,phpcodesniffer
+/nbproject/private/
